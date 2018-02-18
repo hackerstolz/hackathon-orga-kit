@@ -98,3 +98,4 @@ this is the timeline taht worked best for us and contains alot of things that wo
 |  |  |  | Send out email to participants |  |
 |  |  |  | Send out email to sponsors |  |
 |  |  |  | Send out email to mentors |  |
+
