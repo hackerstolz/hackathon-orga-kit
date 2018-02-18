@@ -3,11 +3,15 @@
 we are continously expanding this documentation with our own documents we use to organizie hackathons with [Hackerstolz](http://hackerstolz.de). this guide focuses in some parts on organizing an ahckathon in Germany, but except the legal part everythign should be appliable to other contries as well. 
 
 ## Before the Event
-* Timeline
+* [Timeline](https://github.com/hackerstolz/hackathon-orga-kit/blob/master/before/timeline.md)
 * Finding a Sponsor
 * Getting Participants
+* Homepage
+* Registration
 
 ## At the Event
-* Timeline
+* [Timeline](https://github.com/hackerstolz/hackathon-orga-kit/blob/master/at/timeline.md)
 * Onboarding
 * Prizes
+* Bagdes
+* Photo rights
