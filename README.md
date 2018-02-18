@@ -11,7 +11,7 @@ we are continously expanding this documentation with our own documents we use to
 
 ## At the Event
 * [Timeline](https://github.com/hackerstolz/hackathon-orga-kit/blob/master/at/timeline.md)
-* Onboarding
+* [Onboarding](https://github.com/hackerstolz/hackathon-orga-kit/blob/master/at/onboarding.md) [DE]
 * Prizes
 * Bagdes
 * Photo rights
