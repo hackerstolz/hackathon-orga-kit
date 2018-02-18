@@ -1,8 +1,6 @@
 # Overall Timeline until the event
 
-this is the timeline taht worked best for us and contains alot of things that worked best for us.
-
-## Timeline
+This checklist should structure and accompany the organization of a hackathon. Especially it should support "first time organizers". Using the template organizers can control their progress and ensure that they do not forget anything 
 
 | Finish | Requirement name | Procedure Detail | Notes |
 | ---------- | ------------ | --------- | ------------ |
