@@ -1,6 +1,6 @@
 # The Hackathon Organzier Help Guide you were looking for
 
-we are continously expanding this documentation with our own documents we use to organizie hackathons with [Hackerstolz](http://hackerstolz.de). this guide focuses in some parts on organizing an ahckathon in Germany, but except the legal part everythign should be appliable to other contries as well. 
+We are continuously expanding this documentation with the documents we use to organize hackathons with [Hackerstolz](http://hackerstolz.de). This guide focuses on some parts of organizing a hackathon in Germany, but except the legal part, everything should apply to other countries as well. 
 
 ## Before the Event
 * [Timeline](https://github.com/hackerstolz/hackathon-orga-kit/blob/master/before/timeline.md)
