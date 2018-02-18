@@ -2,9 +2,11 @@
 
 this is the timeline taht worked best for us and contains alot of things that worked best for us.
 
-##Timeline
+## Timeline
+
 
 | Hackathon Todo and Checklist |  |  |
+------------ | ------------ | ------------ | ------------- | -------------
 |  |  |  |  |  |
 | Heute | Hackathon | Wochen bis zum Event |  |  |
 | 18.02.18 | 01.03.18 | 1,6 |  |  |
