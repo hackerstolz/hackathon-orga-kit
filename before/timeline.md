@@ -1,6 +1,6 @@
-# Overall Timeline until the event
+# Overall timeline until the event
 
-This checklist should structure and accompany the organization of a hackathon. Especially it should support "first time organizers". Using the template organizers can control their progress and ensure that they do not forget anything 
+This checklist accompany the organization of a hackathon and provide guidance. In particular, it should support "first time organizers". Using the template, organizers can control their progress and ensure that they do not forget anything.
 
 | Finish | Requirement name | Procedure Detail | Notes |
 | ---------- | ------------ | --------- | ------------ |
