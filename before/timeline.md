@@ -4,7 +4,7 @@ This checklist accompany the organization of a hackathon and provide guidance. I
 
 | Finish | Requirement name | Procedure Detail | Notes |
 | ---------- | ------------ | --------- | ------------ |
-| T-12W | Early Concept work | This helps you to foster the self-awarness about your event and the common understanding of the organziers | 
+| T-12W | Early Concept work | This helps you to foster the self-awareness about your event and the common understanding of the organziers | 
 |  |  | Define the planned/target/min/max number of participants | |
 |  |  | Define the target group | Who should participate? Everyone, students, pupils, professionals... |
 |  |  | Duration of the event | How many days? Weekend? During the week? |
