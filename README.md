@@ -1,4 +1,4 @@
-# The Hackathon Organzier Help Guide you were looking for
+# The Hackathon Organizer Help Guide you were looking for
 
 We are continuously expanding this documentation with the documents we use to organize hackathons with [Hackerstolz](http://hackerstolz.de). This guide focuses on some parts of organizing a hackathon in Germany, but except the legal part, everything should apply to other countries as well. 
 
